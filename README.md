@@ -13,6 +13,7 @@ date etc.
 
 # Installation
 
+```
 Front end
 git clone https://github.com/Selvamano1891/hotelbookingapp.git
 cd hotelbookingapp
